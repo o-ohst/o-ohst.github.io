@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://haositong.kiasubot.com/sitemap.xml
+Sitemap: https://o-ohst.github.io/sitemap.xml

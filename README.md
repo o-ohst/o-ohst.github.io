@@ -1,6 +1,6 @@
 # Sitong Hao — Portfolio
 
-Sitong's portfolio at **haositong.kiasubot.com**. It uses the same template as
+Sitong's portfolio at **o-ohst.github.io**. It uses the same template as
 Jonas' site (React, TypeScript, Vite), restyled for a
 modern look: cool slate and white with an indigo-to-cyan accent, Space Grotesk
 headings over Manrope, and no Chinese theming. No backend, no analytics.
@@ -40,4 +40,7 @@ node tools/optimize-images.mjs   # WebP renditions of public/projects/*.jpg
 ## Release
 
 Push to `main`. `.github/workflows/deploy.yml` lints, builds and deploys `dist/`
-to GitHub Pages at **haositong.kiasubot.com** (`public/CNAME`).
+to GitHub Pages at **https://o-ohst.github.io**. Needs Node 22+ locally (Vite 8).
+
+Moved out of the `kiasubot` monorepo (`apps/portfolios/haositong`), which
+still holds a copy served at haositong.kiasubot.com.
