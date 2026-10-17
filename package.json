@@ -1,0 +1,34 @@
+{
+  "name": "portfolio-haositong",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@types/three": "^0.180.0",
+    "blobatar": "^2.7.0",
+    "lucide-react": "^0.469.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "three": "^0.180.0",
+    "@fontsource-variable/space-grotesk": "^5.2.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "oxlint": "^1.71.0",
+    "prettier": "^3.9.6",
+    "sharp": "^0.35.4",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1",
+    "playwright": "^1.62.0"
+  }
+}

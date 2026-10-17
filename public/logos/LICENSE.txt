@@ -1,0 +1,4 @@
+Icon set: simple-icons (https://simpleicons.org), CC0-1.0. Copied from
+apps/portfolios/jonas/public/logos or fetched from the simple-icons npm
+package. Brand marks remain the property of their owners; CC0 covers the
+SVG files themselves.

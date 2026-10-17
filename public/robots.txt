@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haositong.kiasubot.com/sitemap.xml
